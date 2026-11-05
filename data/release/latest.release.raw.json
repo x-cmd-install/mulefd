@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 821,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2022-11-23T23:11:22Z",
       "updated_at": "2022-11-23T23:11:22Z",
       "browser_download_url": "https://github.com/manikmagar/mulefd/releases/download/v0.11.0/checksums_sha256.txt.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": null,
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2022-11-23T23:11:20Z",
       "updated_at": "2022-11-23T23:11:21Z",
       "browser_download_url": "https://github.com/manikmagar/mulefd/releases/download/v0.11.0/mulefd-0.11.0.tar.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22940724,
       "digest": null,
-      "download_count": 8673,
+      "download_count": 8678,
       "created_at": "2022-11-23T23:11:18Z",
       "updated_at": "2022-11-23T23:11:19Z",
       "browser_download_url": "https://github.com/manikmagar/mulefd/releases/download/v0.11.0/mulefd-0.11.0.zip"
