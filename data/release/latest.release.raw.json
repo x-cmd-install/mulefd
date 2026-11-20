@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 821,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2022-11-23T23:11:21Z",
       "updated_at": "2022-11-23T23:11:21Z",
       "browser_download_url": "https://github.com/manikmagar/mulefd/releases/download/v0.11.0/version.txt.asc"
